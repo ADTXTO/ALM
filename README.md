@@ -9,7 +9,7 @@
   <em>Estúdio Digital de Comunicação e Escrita Profissional</em>
 </p>
 
- <strong>Contacto</strong><br>
+ <h1>Contacto</h1>
 
 - **Email:** hello@ADTXTO.estudio
 - **Estúdio:** Laboratório de Palavras – Ideias em Texto
