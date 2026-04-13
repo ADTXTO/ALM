@@ -1,4 +1,4 @@
-# ALM – Theme - Luxury Design System - ADTXTO
+# ALM — ADTXTO
 
 <!-- Banner --> <!-- Título e Subtítulo -->
 
