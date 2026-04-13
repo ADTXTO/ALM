@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCwAT7OogEqRr7pJkAalmRf6jmyMniz6VOxHwpQeEtTKkGXpNnZo35AcUWH5MtffafwiRA_UrG2EF2BNq5ggmhlTBJknvrxBuxw_227Am5AwoyM49L3fOsIlsYaZs16V1PNr2pHRgzQC8Vv4hLQynupuML1WNTThx1U8yTaSr18VZwqQ/s1600/nosharedpromptsdark.png" width="3%">  ALM – Luxury Design System</h1>
 
 <p align="center">
-  <strong>Laboratório de Palavras | Ideias em Texto</strong><br>
+  <strong>Tema Oficial — Laboratório de Palavras — Ideias em Texto</strong><br>
   <em>Estúdio Digital de Comunicação e Escrita Profissional</em>
 </p>
 
@@ -12,9 +12,9 @@
   </a>
 </p>
 
- <h1>Contacto</h1>
+ <h1>Contacto Oficial</h1>
 
-- **Email:** <strong><em>hello@ADTXTO.estudio</em></strong>
+- **Email:** <strong><em>info@ADTXTO.estudio</em></strong>
 - **Estúdio:** <em>Laboratório de Palavras – Ideias em Texto</em>
 
 ---
