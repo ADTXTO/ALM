@@ -3,20 +3,24 @@
 <p align="center">
   <strong></strong><br> <strong> <h1>Laboratório de Palavras – Ideias em Texto</h1></strong>
 </p>
+
+<p align="center">
   <strong>Estúdio Digital de Comunicação e Escrita Profissional</strong>
+</p>
+
+<h1>Contacto Oficial</h1>
+
+- **Email:** <strong><em>info@ADTXTO.estudio</em></strong>
+- **Estúdio:** <em>Laboratório de Palavras – Ideias em Texto</em>
+
+---
+
 <!-- Botões Sociais -->
 <p align="center">
   <a href="mailto:ADTXTO@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C6A43F?style=for-the-badge&logo=gmail&logoColor=0A1A2F&color=C6A43F" alt="Gmail">
   </a>
 </p>
-
- <h1>Contacto Oficial</h1>
-
-- **Email:** <strong><em>info@ADTXTO.estudio</em></strong>
-- **Estúdio:** <em>Laboratório de Palavras – Ideias em Texto</em>
-
----
 
 <p align="center">
   <strong><em><sub>© Laboratório de Palavras — Ideias em Texto — Todos Direitos Reservados.</sub></em></strong>
