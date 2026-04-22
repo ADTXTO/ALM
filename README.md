@@ -1,10 +1,9 @@
-<h1 align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCwAT7OogEqRr7pJkAalmRf6jmyMniz6VOxHwpQeEtTKkGXpNnZo35AcUWH5MtffafwiRA_UrG2EF2BNq5ggmhlTBJknvrxBuxw_227Am5AwoyM49L3fOsIlsYaZs16V1PNr2pHRgzQC8Vv4hLQynupuML1WNTThx1U8yTaSr18VZwqQ/s1600/nosharedpromptsdark.png" width="7%">  ALM – Luxury Design System</h1>
+<h1 align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCwAT7OogEqRr7pJkAalmRf6jmyMniz6VOxHwpQeEtTKkGXpNnZo35AcUWH5MtffafwiRA_UrG2EF2BNq5ggmhlTBJknvrxBuxw_227Am5AwoyM49L3fOsIlsYaZs16V1PNr2pHRgzQC8Vv4hLQynupuML1WNTThx1U8yTaSr18VZwqQ/s1600/nosharedpromptsdark.png" width="7%">ALM – Luxury Design System</h1>
 
 <p align="center">
-  <strong>Tema Oficial — Laboratório de Palavras — Ideias em Texto</strong><br>
-  <em>Estúdio Digital de Comunicação e Escrita Profissional</em>
+  <strong></strong><br> <strong> <h1>Laboratório de Palavras – Ideias em Texto</h1></strong>
 </p>
-
+  <strong>Estúdio Digital de Comunicação e Escrita Profissional</strong>
 <!-- Botões Sociais -->
 <p align="center">
   <a href="mailto:ADTXTO@gmail.com">
@@ -20,5 +19,5 @@
 ---
 
 <p align="center">
-  <strong><em><sub>© 2026 Laboratório de Palavras — Ideias em Texto — Todos Direitos Reservados.</sub></em></strong>
+  <strong><em><sub>© Laboratório de Palavras — Ideias em Texto — Todos Direitos Reservados.</sub></em></strong>
 </p>
